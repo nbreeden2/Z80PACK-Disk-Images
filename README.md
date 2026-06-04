@@ -23,7 +23,7 @@ The disk images typically have a `README.TXT` file with instructions etc.
 |------|-------------|
 | [TETRIS.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/TETRIS.DSK) | TETRIS written for the DAZZLER video card. Requires a DAZZLER, DAZZLER II or emulated video card. [source](https://github.com/nbreeden2/dazzler_tetris)|
 | [SEDIT.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/SEDIT.DSK) | Full screen text editor (VT100/VT52/ANSI/other terminals) [source](https://github.com/nbreeden2/cpm-screen-editor) |
-| `@HEDIT.DSK` | Full screen HEX editor (VT100/VT52/ANSI/other terminals) [source](https://github.com/nbreeden2/cpm-hex-editor)|
+| [HEDIT.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/HEDIT.DSK) | Full screen HEX editor (VT100/VT52/ANSI/other terminals) [source](https://github.com/nbreeden2/cpm-hex-editor)|
 | `@SUTILS.DSK` | A collection of utilities for CP/M |
 | `@SCOPY.DSK` | File copier, understands user spaces and has `<TAB>` expansion for filenames |
 | `@MUSIC.DSK` | A music player and music files. Requires the Cromemco D+7AIO card (or emulated card). |
