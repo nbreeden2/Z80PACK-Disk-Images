@@ -32,3 +32,6 @@ The disk images typically have a `README.TXT` file with instructions etc.
 | `@HD_PLOT_2.DSK` | Collection of Tektronix 4010 terminal images and the player program |
 | `@HD_PLOT_3.DSK` | Collection of Tektronix 4010 terminal images and the player program |
 | `@MANDEL.DSK` | Mandelbrot program for the Tektronix 4010 terminal. Requires a Tektronix 4010 terminal (or emulated terminal). |
+| `@BLOX.DSK` | Graphics demo for the DAZZLER. |
+| `@LIFE.DSK` | Conways LIFE demo for the DAZZLER. |
+| `@GDEMO.DSK` | A recreation of the Cromemco library for the DAZZLER plus demo programs ported to CPM. |
