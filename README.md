@@ -8,13 +8,16 @@ This repository is meant as a distribution point for these disk images. Source c
 
 These disks have been lightly tested. They should work with:
 
-1. Z80PACK emulation
+1. Z80PACK emulation (*.dsk files)
 2. The High Nibbles IMSAI 8080, VT100, DAZZLER and Tek4010 emulators
-3. The RTR CP/M Emulation system (CPMEMU)
-4. Physical hardware / real S-100 systems that meet the requirements
-5. The High Nibbles FDC-Server 'unpacked' format
+3. The High Nibbles FDC-Server 'unpacked' format
+4. The RTR CP/M Emulation system (CPMEMU)
+5. Physical hardware / real S-100 systems that meet the requirements
 
 The disk images typically have a `README.TXT` file with instructions etc.
+There may also be a `TECH.TXT` with additional details.
+Disks that expect an ANSI/VT100 terminal will also contain `SEDIT.CNF`.
+This is a TERATERM configuration file that allows [TERATERM](https://teratermproject.github.io/index-en.html) to fully work with the software.
 
 > **Note:** Files marked with `@` haven't been published yet.
 
