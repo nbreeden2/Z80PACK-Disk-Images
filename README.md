@@ -9,8 +9,8 @@ This repository is meant as a distribution point for these disk images. Source c
 These disks have been lightly tested. They should work with:
 
 1. Z80PACK emulation (*.dsk files)
-2. The High Nibbles IMSAI 8080, VT100, DAZZLER and Tek4010 emulators
-3. The High Nibbles FDC-Server `unpacked` format
+2. The [High Nibbles](https://thehighnibble.com/imsai8080/) IMSAI 8080, VT100, DAZZLER and Tek4010 emulators
+3. The [High Nibbles](https://thehighnibble.com/imsai8080/) FDC-Server `unpacked` format
 4. The RTR CP/M Emulation system (CPMEMU)
 5. Physical hardware / real S-100 systems that meet the requirements
 
