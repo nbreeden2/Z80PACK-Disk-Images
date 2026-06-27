@@ -1,6 +1,6 @@
 # Z80PACK Compatible Disk Images
 
-This repository contains Z80PACK compatible `.dsk` disk images containing new software that isn't included in Z80PACK. All of these programs are newly developed starting in Jan, 2026.
+This repository contains Z80PACK compatible `.dsk` disk images & High Nibble compatible `.unpacked` ZIPs containing new software that isn't included in Z80PACK. 
 
 This repository is meant as a distribution point for these disk images. Source code for the programs on these disks may be found in other repositories if I have published that source.
 
