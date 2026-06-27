@@ -28,8 +28,8 @@ This is a TERATERM configuration file that allows [TERATERM](https://teratermpro
 | [TETRIS.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/TETRIS.DSK) | TETRIS written for the DAZZLER video card. Requires a DAZZLER, DAZZLER II or emulated video card. [source](https://github.com/nbreeden2/dazzler_tetris) [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/tetris.unpacked.zip)|
 | [SEDIT.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/SEDIT.DSK) | Full screen text editor (VT100/VT52/ANSI/other terminals) [source](https://github.com/nbreeden2/cpm-screen-editor) [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/sedit.unpacked.zip)|
 | [HEDIT.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/HEDIT.DSK) | Full screen HEX editor (VT100/VT52/ANSI/other terminals) [source](https://github.com/nbreeden2/cpm-hex-editor)   [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/hedit.unpacked.zip)|
+| [SCOPY.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/SCOPY.DSK) | Smart file copier, understands user spaces `A3: B15:` and has `<TAB>` expansion for filenames  [source](https://github.com/nbreeden2/cpm-smart-copy)     [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/scopy.unpacked.zip)|
 | `@SUTILS.DSK` | A collection of utilities for CP/M |
-| `@SCOPY.DSK` | File copier, understands user spaces and has `<TAB>` expansion for filenames |
 | `@MUSIC.DSK` | A music player and music files. Requires the Cromemco D+7AIO card (or emulated card). |
 | `@TALK.DSK` | A port of the SAY program from the 6502 to the Z80. Requires the Cromemco D+7AIO card (or emulated card). |
 | `@HD_PLOT_1.DSK` | Collection of Tektronix 4010 terminal images and the player program |
