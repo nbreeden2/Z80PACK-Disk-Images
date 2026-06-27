@@ -30,7 +30,8 @@ This is a TERATERM configuration file that allows [TERATERM](https://teratermpro
 | [HEDIT.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/HEDIT.DSK) | Full screen HEX editor (VT100/VT52/ANSI/other terminals) [source](https://github.com/nbreeden2/cpm-hex-editor)   [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/hedit.unpacked.zip)|
 | [SCOPY.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/SCOPY.DSK) | Smart file copier, understands user spaces `A3: B15:` and has `<TAB>` expansion for filenames  [source](https://github.com/nbreeden2/cpm-smart-copy)  [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/scopy.unpacked.zip)|
 | `@SUTILS.DSK` | A collection of utilities for CP/M |
-| [Z80PLAY.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/SCOPY.DSK)  | A music player and music files. Requires A Z80 and a Cromemco D+7AIO card (or emulated card).  [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/playZ80.unpacked.zip) |
+| [PLAYZ80.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/PLAYZ80.DSK)  | A music player and music files. Requires A Z80 and a Cromemco D+7AIO card (or emulated card).  [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/playZ80.unpacked.zip) |
+| [playZ80.music.zip](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/playZ80.music.DSK)  | A collection of BACH for the PLAYZ80 music player. |
 | [SAM.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/SAM.DSK) |  SAM - Software Automatic Mouth - A port of the SAY program from the 6502 to the Z80. Requires the Cromemco D+7AIO card (or emulated card). [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/sam.unpacked.zip)|
 | `@HD_PLOT_1.DSK` | Collection of Tektronix 4010 terminal images and the player program |
 | `@HD_PLOT_2.DSK` | Collection of Tektronix 4010 terminal images and the player program |
