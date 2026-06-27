@@ -35,7 +35,7 @@ This is a TERATERM configuration file that allows [TERATERM](https://teratermpro
 | `@HD_PLOT_1.DSK` | Collection of Tektronix 4010 terminal images and the player program |
 | `@HD_PLOT_2.DSK` | Collection of Tektronix 4010 terminal images and the player program |
 | `@HD_PLOT_3.DSK` | Collection of Tektronix 4010 terminal images and the player program |
-| `@MANDEL.DSK` | Mandelbrot program for the Tektronix 4010 terminal. Requires a Tektronix 4010 terminal (or emulated terminal). |
+| [MANDEL.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/MANDEL.DSK) | Mandelbrot program for the Tektronix 4010 terminal. Requires a Tektronix 4010 terminal (or emulated 4010).  [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/mandel.unpacked.zip) |
 | `@BLOX.DSK` | Graphics demo for the DAZZLER. |
 | `@LIFE.DSK` | Conways LIFE demo for the DAZZLER. |
 | `@GDEMO.DSK` | A recreation of the Cromemco library for the DAZZLER plus demo programs ported to CPM. |
