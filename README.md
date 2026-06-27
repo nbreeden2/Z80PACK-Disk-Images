@@ -1,4 +1,4 @@
-# Z80PACK Compatible Disk Images
+# Z80PACK AND FDC-Server Compatible Disk Images
 
 This repository contains Z80PACK compatible `.dsk` disk images & High Nibble compatible `.unpacked` ZIPs containing new software that isn't included in Z80PACK. 
 
