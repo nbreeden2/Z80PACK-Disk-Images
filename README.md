@@ -12,6 +12,7 @@ These disks have been lightly tested. They should work with:
 2. The High Nibbles IMSAI 8080, VT100, DAZZLER and Tek4010 emulators
 3. The RTR CP/M Emulation system (CPMEMU)
 4. Physical hardware / real S-100 systems that meet the requirements
+5. The High Nibbles FDC-Server 'unpacked' format
 
 The disk images typically have a `README.TXT` file with instructions etc.
 
