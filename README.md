@@ -31,7 +31,7 @@ This is a TERATERM configuration file that allows [TERATERM](https://teratermpro
 | [SCOPY.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/SCOPY.DSK) | Smart file copier, understands user spaces `A3: B15:` and has `<TAB>` expansion for filenames  [source](https://github.com/nbreeden2/cpm-smart-copy)     [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/scopy.unpacked.zip)|
 | `@SUTILS.DSK` | A collection of utilities for CP/M |
 | `@MUSIC.DSK` | A music player and music files. Requires the Cromemco D+7AIO card (or emulated card). |
-| [SAM.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/SAM.DSK) | A port of the SAY program from the 6502 to the Z80. Requires the Cromemco D+7AIO card (or emulated card). [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/sam.unpacked.zip)|
+| [SAM.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/SAM.DSK) |  SAM - Software Automatic Mouth - A port of the SAY program from the 6502 to the Z80. Requires the Cromemco D+7AIO card (or emulated card). [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/sam.unpacked.zip)|
 | `@HD_PLOT_1.DSK` | Collection of Tektronix 4010 terminal images and the player program |
 | `@HD_PLOT_2.DSK` | Collection of Tektronix 4010 terminal images and the player program |
 | `@HD_PLOT_3.DSK` | Collection of Tektronix 4010 terminal images and the player program |
