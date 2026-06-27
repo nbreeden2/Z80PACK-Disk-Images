@@ -26,7 +26,7 @@ This is a TERATERM configuration file that allows [TERATERM](https://teratermpro
 | File | Description |
 |------|-------------|
 | [TETRIS.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/TETRIS.DSK) | TETRIS written for the DAZZLER video card. Requires a DAZZLER, DAZZLER II or emulated video card. [source](https://github.com/nbreeden2/dazzler_tetris)|
-| [SEDIT.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/SEDIT.DSK) | Full screen text editor (VT100/VT52/ANSI/other terminals) [source](https://github.com/nbreeden2/cpm-screen-editor)|
+| [SEDIT.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/SEDIT.DSK) | Full screen text editor (VT100/VT52/ANSI/other terminals) [source](https://github.com/nbreeden2/cpm-screen-editor) [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/sedit.unpacked.zip)|
 | [HEDIT.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/HEDIT.DSK) | Full screen HEX editor (VT100/VT52/ANSI/other terminals) [source](https://github.com/nbreeden2/cpm-hex-editor)   [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/hedit.unpacked.zip)|
 | `@SUTILS.DSK` | A collection of utilities for CP/M |
 | `@SCOPY.DSK` | File copier, understands user spaces and has `<TAB>` expansion for filenames |
