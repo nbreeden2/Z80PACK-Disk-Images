@@ -12,7 +12,7 @@ These disks have been lightly tested. They should work with:
 2. The [High Nibbles](https://thehighnibble.com/imsai8080/) IMSAI 8080, VT100, DAZZLER and Tek4010 emulators
 3. The [High Nibbles](https://thehighnibble.com/imsai8080/) FDC-Server `unpacked` format
 4. The RTR CP/M Emulation system (CPMEMU)
-5. Physical hardware / real S-100 systems that meet the requirements
+5. Physical hardware / real S-100 systems that meet the requirements and are properly configured
 
 The disk images typically have a `README.TXT` file with instructions etc.
 There may also be a `TECH.TXT` with additional details.
@@ -29,7 +29,7 @@ This is a TERATERM configuration file that allows [TERATERM](https://teratermpro
 | [SEDIT.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/SEDIT.DSK) | Full screen text editor (VT100/VT52/ANSI/other terminals) [source](https://github.com/nbreeden2/cpm-screen-editor) [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/sedit.unpacked.zip)|
 | [HEDIT.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/HEDIT.DSK) | Full screen HEX editor (VT100/VT52/ANSI/other terminals) [source](https://github.com/nbreeden2/cpm-hex-editor)   [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/hedit.unpacked.zip)|
 | [SCOPY.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/SCOPY.DSK) | Smart file copier, understands user spaces `A3: B15:` and has `<TAB>` expansion for filenames  [source](https://github.com/nbreeden2/cpm-smart-copy)  [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/scopy.unpacked.zip)|
-| `@SUTILS.DSK` | A collection of utilities for CP/M |
+| [SUTIL.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/SUTIL.DSK) | Smart utilities and editors for CPM. Source image has full build environemnt [source](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/hd-sutil.unpacked.zip)  [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/sutil.unpacked.zip)|
 | [PLAYZ80.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/PLAYZ80.DSK)  | A music player and music files. Requires A Z80 and a Cromemco D+7AIO card (or emulated card).  [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/playZ80.unpacked.zip) |
 | [playZ80.music.zip](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/playZ80.music.DSK)  | A collection of BACH for the PLAYZ80 music player. |
 | [SAM.DSK](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/SAM.DSK) |  SAM - Software Automatic Mouth - A port of the SAY program from the 6502 to the Z80. Requires the Cromemco D+7AIO card (or emulated card). [unpacked](https://github.com/nbreeden2/Z80PACK-Disk-Images/blob/main/sam.unpacked.zip)|
