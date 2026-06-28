@@ -14,8 +14,8 @@ These disks have been lightly tested. They should work with:
 4. The RTR CP/M Emulation system (CPMEMU)
 5. Physical hardware / real S-100 systems that meet the requirements and are properly configured
 
-The disk images typically have a `README.TXT` file with instructions etc.
-There may also be a `TECH.TXT` with additional details.
+The disk images typically have a `USER` file with instructions etc.
+There may also be a `TECH` file with additional details, build instructions etc. Any disk image that can be assembled/compiled on that image will have the proper assembler/compiler already on the disk.
 Disks that expect an ANSI/VT100 terminal will also contain `SEDIT.CNF`.
 This is a TERATERM configuration file that allows [TERATERM](https://teratermproject.github.io/index-en.html) to fully work with the software.
 
